@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  token: MyString
+  expires_in: MyString
+  token_type: MyString
+  scope: MyString
+  refresh_token: MyString
+
+two:
+  token: MyString
+  expires_in: MyString
+  token_type: MyString
+  scope: MyString
+  refresh_token: MyString
